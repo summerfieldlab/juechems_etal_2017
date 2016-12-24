@@ -1,0 +1,5 @@
+% ADD PATH TO WORKING DIRECTORY
+addcode;
+
+% START EXPERIMENT
+main;
