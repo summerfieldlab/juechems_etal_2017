@@ -21,4 +21,4 @@ to be used. This can be quite computationally intensive, so expect long running
 times for settings of large n_iter and/or large n_delta.
 
 If you have any questions, remarks, or spotted any errors, please contact
-keno.juchems@psy.ox.ac.uk
+keno.juchems (at) psy.ox.ac.uk
